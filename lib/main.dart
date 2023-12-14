@@ -8,6 +8,8 @@ import 'package:project_1/screens/home/Screenhome.dart';
 const Savekeyname = 'userloggedin';
 
 Future<void> main() async {
+  //this is money  managemnt applciations
+  print("hello world");
   final obj1 = CategoryDB();
   final obj2 = CategoryDB();
 
